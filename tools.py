@@ -75,7 +75,7 @@ def is_sequence_correct_and_all_names_of_values(string):
         return False
 
 msg = """Алфавіт:
-    xi - змінна, де x - символ, i - невідома
+    xi - змінна, де x - символ, i - натуральне число
     ¬ - заперечення
     → - імплікація
 Приклади формул:
